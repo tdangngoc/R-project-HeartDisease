@@ -140,3 +140,7 @@ Only 14 attributes used:
 74. cathef: not used 
 75. junk: not used 
 76. name: last name of patient (I replaced this with the dummy string "name")
+
+## What to do during our project
+
+1) Clean the dataset in order to prepare to analyze
