@@ -143,4 +143,7 @@ Only 14 attributes used:
 
 ## What to do during our project
 
-1) Clean the dataset in order to prepare to analyze
+1) Clean the dataset in order to prepare analyzing
+2) Analyzing datas from different university to understand in depth the dataset
+3) Interpreting results from the previous analysis
+4) Create a logistic regression model to train it and get the highest rate of prediction
